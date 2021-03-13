@@ -74,7 +74,7 @@ function clearScore() {
 //store the scores on local storage
 function setScore() {
 localStorage.setItem("highscore", score);
-localStorage.setItem("highscoreName",  document.getElementById('name').vilue);
+localStorage.setItem("highscoreName",  document.getElementById('name').value);
 getScore();
 }
 
