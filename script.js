@@ -25,7 +25,7 @@ let questions = [{
     answer: "Default"
 },
 {
-    title: "How do you find the minimum of x and y using JavaScript?",
+    title: "How would you find the minimum of x and y using JavaScript?",
     choices: ["1.Min(x,y)", "2.Math.min(x,y)", "3.Math.min(xy)", "4.Min(xy)"],
     answer: "Math.min(x,y)"
 }
